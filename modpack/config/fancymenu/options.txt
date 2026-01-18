@@ -25,7 +25,7 @@ B:game_intro_fade_out = 'true';
 ##[window]
 
 B:show_custom_window_icon = 'true';
-S:custom_window_icon_macos = '/config/fancymenu/assets/32icon.icns';
+S:custom_window_icon_macos = '/config/fancymenu/assets/32iconmacos.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/32icon.png';
 S:custom_window_title = 'Beyond [SMP]';
 S:custom_window_icon_16 = '/config/fancymenu/assets/16icon.png';
