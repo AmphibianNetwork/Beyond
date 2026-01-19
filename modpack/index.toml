@@ -1752,6 +1752,11 @@ hash = "e63323ef22e8672030d1b6c4d10572b36c9684e76093d953f1ca4fa51d30c700"
 metafile = true
 
 [[files]]
+file = "mods/animalpens.pw.toml"
+hash = "efbee9b4450f329b24139efe42d49a2aae5906ff801b1333fa027c22ddeefdf7"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "64bcde890c30378ebb2f305268bd76c412e1f5d4709896e97449cbe95b653fe5"
 metafile = true

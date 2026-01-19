@@ -1,0 +1,13 @@
+name = "Animal Pens"
+filename = "animal_pen-forge-1.20-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K5CAV4wi/versions/ZSMGAsXY/animal_pen-forge-1.20-2.1.0.jar"
+hash-format = "sha512"
+hash = "c17441bcd22e0492dbb13b73704759a00304ddbdde5a615dbc91f5baede00474023164a919a2b7169969e5fd0cd139366145e346c0ae7aa822d4859e44eb38b8"
+
+[update]
+[update.modrinth]
+mod-id = "K5CAV4wi"
+version = "ZSMGAsXY"
