@@ -2147,11 +2147,6 @@ hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
 metafile = true
 
 [[files]]
-file = "mods/foolish.pw.toml"
-hash = "f45d630d1143f8cc7700981cf82ef0fcc7b20f388669df09bf10ae08b4a39823"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
