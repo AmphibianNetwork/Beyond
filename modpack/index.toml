@@ -2502,11 +2502,6 @@ hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
-metafile = true
-
-[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "6168b2a7e23041d17cb7ba21bd98eb2aae699807eaf47ea676494c223394b220"
 metafile = true

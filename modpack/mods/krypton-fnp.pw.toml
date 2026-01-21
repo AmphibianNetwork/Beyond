@@ -1,6 +1,6 @@
 name = "Krypton FNP"
 filename = "PERFORMANCE_krypton-fnp_0.2.24.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/JkxWVYwU/versions/3OHXI5Fu/Krypton%20FNP-forge-1.20.1-0.2.24-lite.jar"
