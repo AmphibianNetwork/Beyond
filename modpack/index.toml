@@ -2482,11 +2482,6 @@ hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
 
 [[files]]
-file = "mods/pehkui_resizer.pw.toml"
-hash = "d485aaf11f675a0dd4790f4c04789a6d18a5ec74cb5a071e83f82b4949944a6e"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
