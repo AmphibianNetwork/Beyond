@@ -2557,11 +2557,6 @@ hash = "35c4484a3bd6b9055f3f944ed8bdc27fb8c62a385277b9e7f89fd19bccfa4191"
 metafile = true
 
 [[files]]
-file = "mods/sanity-descent-into-madness.pw.toml"
-hash = "2297e5ef425cbcfe1cc941083389fc5d3a48e2c1c6bee98e521d4cca1673ad18"
-metafile = true
-
-[[files]]
 file = "mods/scannable.pw.toml"
 hash = "2b558db23b1ffc61a99361d953d2ca178da67ef7ca3da16ceaf6a113c19ed8ac"
 metafile = true
