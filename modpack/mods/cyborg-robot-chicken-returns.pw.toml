@@ -1,13 +1,13 @@
-name = "Cyborg Robot Chicken: Returns"
-filename = "crc-1.0.4.jar"
+name = "Cyborg Robot Chicken: Returns!"
+filename = "crc-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x45h4Fhs/versions/ik24PT1I/crc-1.0.4.jar"
-hash-format = "sha512"
-hash = "7570635957915b33d62774bf6d6b36e79100022b84d2a10ef7ea90d1fe4265357ca480614916bf3079b2dfb359afb7e00b1d56fad324369f7dd2898e132a2d10"
+hash-format = "sha1"
+hash = "ab74e6e24c032fbb797199d466eb710b0e530ffe"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "x45h4Fhs"
-version = "ik24PT1I"
+[update.curseforge]
+file-id = 7190320
+project-id = 1368693
