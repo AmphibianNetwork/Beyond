@@ -1,0 +1,10 @@
+{
+  "wilhelm": {
+    "sounds": [
+      {
+        "name": "beyond:wilhelm",
+        "stream": false
+      }
+    ]
+  }
+}
