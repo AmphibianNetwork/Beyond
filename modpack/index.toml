@@ -1992,6 +1992,11 @@ hash = "694dc53dc36c73b4ec77fea05288c1092e05cd1d7b316e70f827a09e7ecb43f4"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "eb60f70cc84efa111a51c35311a44ae352b3b9c98ec7ba4e64595ae627e33006"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "e9dfcaebe165cb93ba4774f5c17bae14b5b82878593199539326f92519f59d5e"
 metafile = true
