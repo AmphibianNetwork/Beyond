@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1768770667628
+  last_edited_time = 1769396816097
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_blacklist = create_world_screen;
-  [loading_requirement_container_meta:93dd3b62-f6ea-4be7-ac0d-0bf4ead72f88-1768770558527] = [groups:][instances:3d12a07e-a263-46c9-b330-db9943c9a15c-1762393155318;4c775cf5-af6f-447b-b5ea-fd4742e354a7-1762393238662;]
+  [loading_requirement_container_meta:82a0d7f7-74fe-4d3d-b781-23981fde84a9-1769396575094] = [groups:][instances:3d12a07e-a263-46c9-b330-db9943c9a15c-1762393155318;4c775cf5-af6f-447b-b5ea-fd4742e354a7-1762393238662;]
   [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if_not][req_id:3d12a07e-a263-46c9-b330-db9943c9a15c-1762393155318] = 
   [loading_requirement:fancymenu_loading_requirement_is_singpleplayer][requirement_mode:if_not][req_id:4c775cf5-af6f-447b-b5ea-fd4742e354a7-1762393238662] = 
 }
@@ -35,16 +35,18 @@ layout_action_executable_blocks {
 }
 
 element {
-  audio_instance_0 = [source:local]/config/fancymenu/assets/sounds/youshowedme.wav
+  audio_instance_0 = [source:local]/config/fancymenu/assets/sounds/menu/changetheworld.ogg
   audio_instance_weight_0 = 1.0
-  audio_instance_1 = [source:local]/config/fancymenu/assets/sounds/dontmessaround.wav
+  audio_instance_1 = [source:local]/config/fancymenu/assets/sounds/menu/dancinginthemoonlight.ogg
   audio_instance_weight_1 = 1.0
-  audio_instance_2 = [source:local]/config/fancymenu/assets/sounds/sunshine.wav
+  audio_instance_2 = [source:local]/config/fancymenu/assets/sounds/menu/doctordoctor.ogg
   audio_instance_weight_2 = 1.0
-  audio_instance_3 = [source:local]/config/fancymenu/assets/sounds/dancinginthemoonlight.wav
+  audio_instance_3 = [source:local]/config/fancymenu/assets/sounds/menu/jim.ogg
   audio_instance_weight_3 = 1.0
-  audio_instance_4 = [source:local]/config/fancymenu/assets/sounds/aloneagain.wav
+  audio_instance_4 = [source:local]/config/fancymenu/assets/sounds/menu/logical.ogg
   audio_instance_weight_4 = 1.0
+  audio_instance_5 = [source:local]/config/fancymenu/assets/sounds/menu/spacegirls.ogg
+  audio_instance_weight_5 = 1.0
   play_mode = shuffle
   looping = true
   volume = 1.0
