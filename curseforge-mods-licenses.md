@@ -10,3 +10,4 @@
 - Orbital Railgun Reforged -> [MIT License](https://www.curseforge.com/minecraft/mc-mods/orbital-railgun-reforged#license)
 - AllTheLeaks -> [MIT License](https://www.curseforge.com/minecraft/mc-mods/alltheleaks#license)
 - IDog -> [MIT License](https://www.curseforge.com/minecraft/mc-mods/idog#license)
+- Haven Animal Seeds / Crops / Plants [MIT License](https://www.curseforge.com/minecraft/mc-mods/haven-animal-seeds#license)
