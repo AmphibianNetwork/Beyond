@@ -1,9 +1,6 @@
 {
   "type": "forge:add_spawns",
-  "biomes": [
-    "swamp",
-    "river"
-  ],
+  "biomes": [],
   "spawners": {
     "type": "mg_secrets_of_mermaids:microspinus",
     "weight": 7,
