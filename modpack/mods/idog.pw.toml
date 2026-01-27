@@ -1,0 +1,13 @@
+name = "iDog (Musical Pet)"
+filename = "idogmod-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48f74832778832c453df9c69b69f828796d22089"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7282473
+project-id = 1369810
