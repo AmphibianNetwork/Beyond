@@ -1,41 +1,37 @@
 [
   {
-    "mob": "bogos_binted:alien_rat_entity",
-    "when": "position",
-    "structure": [
-      "underground_village:underground_village",
-      "underground_village:underwater_village"
-    ],
-    "result": "default"
-  },
-  {
-    "mob": "bogos_binted:alien_rat_entity",
-    "when": "position",
-    "result": "deny"
-  },
-  {
     "mob": [
       "minecraft:zombie",
       "minecraft:creeper",
       "minecraft:skeleton",
       "minecraft:zombie_villager",
       "minecraft:spider",
+      "minecraft:villager",
       "scguns:redcoat",
       "minecraft:wolf",
-      "minecraft:slime"
+      "minecraft:slime",
+      "minecraft:pig",
+      "minecraft:sheep",
+      "minecraft:chicken",
+      "minecraft:horse",
+      "minecraft:donkey",
+      "minecraft:mule",
+      "minecraft:llama",
+      "minecraft:bat",
+      "minecraft:cat",
+      "minecraft:fox",
+      "minecraft:parrot",
+      "minecraft:ocelot",
+      "minecraft:panda",
+      "minecraft:polar_bear",
+      "minecraft:axolotl",
+      "minecraft:goat",
+      "minecraft:frog",
+      "minecraft:tadpole",
+      "minecraft:rabbit",
+      "minecraft:turtle"
     ],
-    "when": "position",
-    "result": "deny"
-  },
-  {
-    "hostile": true,
-    "maxcount": {
-      "amount": 30,
-      "hostile": true,
-      "perplayer": true
-    },
+    "spawner": false,
     "result": "deny"
   }
 ]
-
-  

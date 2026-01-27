@@ -2197,13 +2197,18 @@ hash = "5b1ccd88254480f6b73358491b4ef1eff859cffdd6784dea4d1a89c8fdf74601"
 metafile = true
 
 [[files]]
+file = "mods/haven-animal-seeds.pw.toml"
+hash = "bf8755d15e2ba7001460a1b9bc086c081e3bfbca76064073505d2899c3e22518"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
 metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "be6cb78947aecc992c077f4cf4e19fe6714d4c9b328a9ebe71c6d6887b4f98cf"
+hash = "66e31f260f763f9643e4efd3af083fb2b9810c49cbc221cec82caf82ec19222a"
 metafile = true
 
 [[files]]
@@ -2776,9 +2781,4 @@ hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 [[files]]
 file = "resourcepacks/month-n-week-moons.pw.toml"
 hash = "3eba28c225d309e580591e1ff0d874f8539d0082f29bceba414acadd5d6f5dec"
-metafile = true
-
-[[files]]
-file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
 metafile = true
