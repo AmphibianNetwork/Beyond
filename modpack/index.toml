@@ -2202,11 +2202,6 @@ hash = "bf8755d15e2ba7001460a1b9bc086c081e3bfbca76064073505d2899c3e22518"
 metafile = true
 
 [[files]]
-file = "mods/idog.pw.toml"
-hash = "8ee8ea398f426fcfbe80f0aacb4ad11d176b90c64fb50c4070f1f71a66c65f9d"
-metafile = true
-
-[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
 metafile = true
