@@ -33,10 +33,5 @@
     ],
     "spawner": false,
     "result": "deny"
-  },
-  {
-    "mob": "minecraft:villager",
-    "structure": "underground_village:underwater_village",
-    "result": "deny"
   }
 ]
