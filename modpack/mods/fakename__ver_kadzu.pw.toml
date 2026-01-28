@@ -1,6 +1,6 @@
 name = "Fakename(unofficial)"
 filename = "TOOL_fakename_1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qfjB9Ndb/versions/3n72p2N0/fakename_-1.20.1-ver_kadzu.jar"
