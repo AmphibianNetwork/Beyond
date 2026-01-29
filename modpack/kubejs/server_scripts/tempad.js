@@ -17,24 +17,22 @@ PlayerEvents.loggedIn(event => {
 ///////////////////// KEEP ITEM ON DEATH ///////////////////////
 ////////////////////////////////////////////////////////////////
 
-// Store if player had tempad BEFORE dying
-EntityEvents.hurt(event => {
-  const entity = event.entity
-  if (!entity.isPlayer()) return
+// Remove tempad before corpse is created
+EntityEvents.death(event => {
+  const player = event.entity
+  if (!player.isPlayer()) return
 
-  // Only when damage would kill
-  if (event.damage < entity.health) return
-
-  const player = entity
   const data = player.persistentData
-
-  let hasTempad = false
+  let hadTempad = false
 
   player.inventory.allItems.forEach(stack => {
-    if (stack.id == 'tempad:tempad') hasTempad = true
+    if (stack.id == 'tempad:tempad') {
+      hadTempad = true
+      stack.setCount(0) // delete from inventory so corpse never gets it
+    }
   })
 
-  data.putBoolean('restore_tempad', hasTempad)
+  data.putBoolean('restore_tempad', hadTempad)
 })
 
 // Restore after respawn
